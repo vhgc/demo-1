@@ -1,8 +1,7 @@
 ## Try it
 
-[https://my-json-server.typicode.com/iosamuel/demo](https://my-json-server.typicode.com/iosamuel/demo)
 
-[https://my-json-server.typicode.com/vhgc/demo](https://my-json-server.typicode.com/vhgc/demo)
+[https://my-json-server.typicode.com/vhgc/demo-1](https://my-json-server.typicode.com/vhgc/demo-1)
 
 ## Use your own data
 
