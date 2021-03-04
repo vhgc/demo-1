@@ -56,7 +56,11 @@
         {
           "image": "https://via.placeholder.com/600/54176f",
           "thumbnail": "https://via.placeholder.com/150/54176f"
-        }
+        },
+        {
+        "image": "https://via.placeholder.com/600/54176f",
+        "thumbnail": "https://via.placeholder.com/150/54176f"
+      }
       ],
       "quantity": 1,
       "new": true,
